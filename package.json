@@ -1,0 +1,34 @@
+{
+  "name": "quiautem",
+  "version": "1.0.0",
+  "description": "Turns GraphQLResolveInfo into a map of the requested fields",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DillanKling/quiautem.git"
+  },
+  "keywords": [
+    "graphql",
+    "graphql-js",
+    "dolores",
+    "iste",
+    "quis",
+    "ast"
+  ],
+  "files": [
+    "build/*"
+  ],
+  "author": "HaleyWaelchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DillanKling/quiautem.git/issues"
+  },
+  "homepage": "https://github.com/DillanKling/quiautem.git",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "graphql": "^0.6.2",
+    "mocha": "^2.4.5"
+  }
+}
